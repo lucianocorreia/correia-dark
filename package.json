@@ -2,6 +2,7 @@
     "name": "correia-dark",
     "displayName": "Correia Dark",
     "description": "Dark theme",
+    "publisher": "CorreiaGitHubGruvbox",
     "version": "0.0.1",
     "icon": "images/logo_correia.png",
     "engines": {
@@ -9,6 +10,11 @@
     },
     "categories": [
         "Themes"
+    ],
+    "keywords": [
+        "Correia",
+        "Next",
+        "Github"
     ],
     "repository": {
         "type": "git",
