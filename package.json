@@ -2,7 +2,7 @@
     "name": "correia-dark",
     "displayName": "Correia Dark",
     "description": "Dark theme",
-    "publisher": "CorreiaGitHubGruvbox",
+    "publisher": "CorreiaDark",
     "version": "0.0.1",
     "icon": "images/logo_correia.png",
     "engines": {
