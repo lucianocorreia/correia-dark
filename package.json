@@ -3,18 +3,28 @@
     "displayName": "Correia Dark",
     "description": "Dark theme",
     "version": "0.0.1",
+    "icon": "images/logo_correia.png",
     "engines": {
         "vscode": "^1.64.0"
     },
     "categories": [
         "Themes"
     ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/lucianocorreia/vscode-theme-github-gruvbox"
+    },
     "contributes": {
         "themes": [
             {
-                "label": "Correia Dark",
+                "label": "Correia Dark 1",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Correia Dark-color-theme.json"
+            },
+            {
+                "label": "Correia Dark 2",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Correia Dark 2-color-theme.json"
             }
         ]
     }

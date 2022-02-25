@@ -1,5 +1,5 @@
 {
-	"name": "Correia Dark",
+	"name": "Correia Dark - 1",
 	"type": "dark",
 	"colors": {
 		"activityBar.activeBorder": "#ec775c",
@@ -687,7 +687,7 @@
 				"meta.definition.variable"
 			],
 			"settings": {
-				"foreground": "#F69D50"
+				"foreground": "#42c5a0"
 			}
 		},
 		{
@@ -707,7 +707,7 @@
 		{
 			"scope": "entity.name.function",
 			"settings": {
-				"foreground": "#DCBDFB"
+				"foreground": "#42c5a0"
 			}
 		},
 		{
@@ -716,7 +716,7 @@
 				"support.class.component"
 			],
 			"settings": {
-				"foreground": "#8DDB8C"
+				"foreground": "#42C5A0"
 			}
 		},
 		{
