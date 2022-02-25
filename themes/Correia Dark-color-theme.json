@@ -707,7 +707,7 @@
 		{
 			"scope": "entity.name.function",
 			"settings": {
-				"foreground": "#42c5a0"
+				"foreground": "#3495f7"
 			}
 		},
 		{
