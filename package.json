@@ -46,6 +46,11 @@
                 "label": "Correia Dark 5",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Correia Dark 5-color-theme.json"
+            },
+            {
+                "label": "Correia Dark 6",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Correia Dark 6-color-theme.json"
             }
         ]
     }
