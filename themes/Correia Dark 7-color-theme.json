@@ -934,7 +934,7 @@
         {
             "scope": "variable.other.readwrite,meta.object-literal.key,support.variable.property,support.variable.object.process,support.variable.object.node",
             "settings": {
-                "foreground": "#FFFFFF"
+                "foreground": "#e8e8e8"
             }
         },
         {
@@ -1313,7 +1313,10 @@
             }
         },
         {
-            "scope": "entity.name.tag",
+            "scope": [
+                "entity.name.tag",
+                "entity.name.tag.html"
+            ],
             "settings": {
                 "foreground": "#787FDD"
             }
