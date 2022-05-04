@@ -1314,13 +1314,27 @@
         },
         {
             "scope": [
-                "entity.name.tag",
-                "entity.name.tag.html",
-                "invalid.illegal.unrecognized-tag.html",
-                "text.aspnetcorerazor"
+                "entity.name.tag"
             ],
             "settings": {
                 "foreground": "#787FDD"
+            }
+        },
+        {
+            "scope": [
+                "entity.name.tag.html",
+                "invalid.illegal.unrecognized-tag.html",
+            ],
+            "settings": {
+                "foreground": "#61AFEF"
+            }
+        },
+        {
+            "scope": [
+                "text.aspnetcorerazor"
+            ],
+            "settings": {
+                "foreground": "#EDEDED"
             }
         },
         {
