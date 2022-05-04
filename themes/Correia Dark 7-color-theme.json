@@ -1612,7 +1612,7 @@
         {
             "scope": "punctuation.definition.tag.begin.html,punctuation.definition.tag.end.html",
             "settings": {
-                "foreground": "#61AFEF"
+                "foreground": "#787FDD"
             }
         },
         {
