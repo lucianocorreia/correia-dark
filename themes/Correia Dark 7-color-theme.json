@@ -932,7 +932,7 @@
             }
         },
         {
-            "scope": "variable.other.readwrite,meta.object-literal.key,support.variable.property,support.variable.object.process,support.variable.object.node",
+            "scope": "entity.name.variable.property.cs,variable.other.readwrite,meta.object-literal.key,support.variable.property,support.variable.object.process,support.variable.object.node",
             "settings": {
                 "foreground": "#e8e8e8"
             }
