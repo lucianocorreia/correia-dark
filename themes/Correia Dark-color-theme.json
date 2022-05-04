@@ -718,7 +718,8 @@
         {
             "scope": [
                 "entity.name.tag",
-                "entity.name.tag.html"
+                "entity.name.tag.html",
+                "invalid.illegal.unrecognized-tag.html"
             ],
             "settings": {
                 "foreground": "#569CD6"
