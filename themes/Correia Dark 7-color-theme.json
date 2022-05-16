@@ -1193,7 +1193,10 @@
             }
         },
         {
-            "scope": "variable.other.class.php",
+            "scope": [
+                "variable.other.class.php",
+                "source.dart"
+            ],
             "settings": {
                 "foreground": "#ededed"
             }
