@@ -3,7 +3,7 @@
     "displayName": "Correia Dark",
     "description": "Dark theme",
     "publisher": "CorreiaDark",
-    "version": "8.7.0",
+    "version": "9.0.0",
     "icon": "images/logo_correia.png",
     "engines": {
         "vscode": "^1.64.0"
