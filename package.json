@@ -61,6 +61,11 @@
                 "label": "Correia Dark 8",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Correia Dark 8-color-theme.json"
+            },
+            {
+                "label": "Correia Dark 9",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Correia Dark 9-color-theme.json"
             }
         ]
     }
